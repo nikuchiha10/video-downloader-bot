@@ -3,7 +3,7 @@ import yt_dlp
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, CallbackQueryHandler, ContextTypes, filters
 
-API_TOKEN = "ВАШ_API_КЛЮЧ"
+API_TOKEN = "8323949995:AAF7dIxGpD01MAALToG0XSe36lfBUs_fFbE"
 
 # Стартовое сообщение
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
