@@ -1,2 +1,3 @@
-yt-dlp
-python-telegram-bot  
+aiogram==3.0
+requests
+pytube
